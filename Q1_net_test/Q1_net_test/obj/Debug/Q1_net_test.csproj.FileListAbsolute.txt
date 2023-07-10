@@ -1,0 +1,7 @@
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\bin\Debug\Q1_net_test.exe.config
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\bin\Debug\Q1_net_test.exe
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\bin\Debug\Q1_net_test.pdb
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\obj\Debug\Q1_net_test.csproj.AssemblyReference.cache
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\obj\Debug\Q1_net_test.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\obj\Debug\Q1_net_test.exe
+C:\Users\surchauh4\source\repos\Q1_net_test\Q1_net_test\obj\Debug\Q1_net_test.pdb

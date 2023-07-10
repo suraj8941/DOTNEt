@@ -1,0 +1,7 @@
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\obj\Debug\SerializationProject.csproj.AssemblyReference.cache
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\obj\Debug\SerializationProject.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\bin\Debug\SerializationProject.exe.config
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\bin\Debug\SerializationProject.exe
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\bin\Debug\SerializationProject.pdb
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\obj\Debug\SerializationProject.exe
+C:\Users\surchauh4\source\repos\SerializationProject\SerializationProject\obj\Debug\SerializationProject.pdb

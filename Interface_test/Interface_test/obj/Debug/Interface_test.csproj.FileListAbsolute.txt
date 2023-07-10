@@ -1,0 +1,6 @@
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\bin\Debug\Interface_test.exe.config
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\bin\Debug\Interface_test.exe
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\bin\Debug\Interface_test.pdb
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\obj\Debug\Interface_test.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\obj\Debug\Interface_test.exe
+C:\Users\surchauh4\source\repos\Interface_test\Interface_test\obj\Debug\Interface_test.pdb

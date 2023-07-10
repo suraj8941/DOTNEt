@@ -1,0 +1,7 @@
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\bin\Debug\Console_Service_1.exe.config
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\bin\Debug\Console_Service_1.exe
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\bin\Debug\Console_Service_1.pdb
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\obj\Debug\Console_Service_1.csproj.AssemblyReference.cache
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\obj\Debug\Console_Service_1.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\obj\Debug\Console_Service_1.exe
+C:\Users\surchauh4\source\repos\Console_Service_1\Console_Service_1\obj\Debug\Console_Service_1.pdb

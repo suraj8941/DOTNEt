@@ -1,0 +1,6 @@
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\bin\Debug\Collecitons_proj.exe.config
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\bin\Debug\Collecitons_proj.exe
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\bin\Debug\Collecitons_proj.pdb
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\obj\Debug\Collecitons_proj.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\obj\Debug\Collecitons_proj.exe
+C:\Users\surchauh4\source\repos\Collecitons_proj\Collecitons_proj\obj\Debug\Collecitons_proj.pdb

@@ -1,0 +1,7 @@
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\obj\Debug\Emp_test.csproj.AssemblyReference.cache
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\obj\Debug\Emp_test.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\bin\Debug\Emp_test.exe.config
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\bin\Debug\Emp_test.exe
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\bin\Debug\Emp_test.pdb
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\obj\Debug\Emp_test.exe
+C:\Users\surchauh4\source\repos\Emp_test\Emp_test\obj\Debug\Emp_test.pdb

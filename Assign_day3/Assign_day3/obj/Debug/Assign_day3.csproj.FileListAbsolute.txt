@@ -1,0 +1,7 @@
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\bin\Debug\Assign_day3.exe.config
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\bin\Debug\Assign_day3.exe
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\bin\Debug\Assign_day3.pdb
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\obj\Debug\Assign_day3.csproj.AssemblyReference.cache
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\obj\Debug\Assign_day3.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\obj\Debug\Assign_day3.exe
+C:\Users\surchauh4\source\repos\Assign_day3\Assign_day3\obj\Debug\Assign_day3.pdb
